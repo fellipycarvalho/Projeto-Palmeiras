@@ -32,10 +32,33 @@ section#quatro img{
 }
 
 body{
-      margin: 12px;    
+     margin: 12px;
+     padding: 15px;
+
+}
+
+body h1,h2,h3{
+    padding: 15px;
 }
 
 div#artigos{
     font-size: x-large;
     color: aqua;
+    font-family: sans-serif;
+}
+
+div#dados h3#titulotabela{
+    font-size: large;
+    color: aqua;
+    font-family: sans-serif;
+    padding-left: 480px;
+    
+}
+
+div#dados section#tabeladados{
+    font-size: large;
+    color: aqua;
+    font-family: sans-serif;
+    padding-left: 480px;
+
 }
