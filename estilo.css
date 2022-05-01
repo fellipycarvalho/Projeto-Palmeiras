@@ -1,9 +1,25 @@
+
 table{
-    border: 1px solid black;  
+    border: 1px solid black;
+    border-spacing: 0px;
 }
 
+table td{
+    border: 1px solid black;
+    padding: 10px;
+}
 
 
 h1{
-    color: aqua;
+    color: rgb(19, 73, 6);
 }
+
+img{
+    max-width:250px;
+    max-height:250px;
+    padding:80px;  
+  }
+
+  body{
+      margin: 12px;
+  }
